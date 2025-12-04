@@ -1,0 +1,5 @@
+{
+  "name": "CT Scan AI Analyst",
+  "description": "An AI-powered application to analyze chest CT scans for pneumonia and COVID-19. It automatically detects and corrects blurry images before providing a detailed diagnostic analysis.",
+  "requestFramePermissions": []
+}
